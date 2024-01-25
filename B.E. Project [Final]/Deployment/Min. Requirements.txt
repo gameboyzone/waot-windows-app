@@ -1,0 +1,8 @@
+**  Minimum requirements: **
+--> Intel Pentium/Celeron family or AMD K6/Athlon/Duron family, or higher
+--> Microsoft Windows XP Home/Professional
+--> 128 MB RAM
+--> Super VGA (800 x 600) or higher-resolution video adapter
+--> 100 MB free HDD space
+--> The Windows XP account used to install W.A.O.T. should be an Administrator
+--> No JDK / MS-Access required...!!!

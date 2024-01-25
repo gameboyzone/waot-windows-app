@@ -1,0 +1,17 @@
+Changes for WAOT for 1.1:
+
+1] Mouse croshhair does not change when hovered over buttons b4,b5,b6,b7,b8,b9 in Main.java
+ 
+2] When any icon is exited from SystemTray, entire application quits. The solution is making requisite changes to the UserAuth.java file so the SytemTray is removed and the process is terminated. 
+
+3] Time-based Shudown does not terminate all applications when it shutsdown.
+
+4] The Mnemonic for Time-based shutdown and "System Info" is same in Main.java file
+
+5]
+
+6]
+
+7]
+
+8]

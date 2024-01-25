@@ -1,0 +1,21 @@
+License Agreement
+
+W.A.O.T. version 1.0
+Copyright (c) 2009, Gurucool Inc.. All rights reserved.
+
+This program is distributed as FREEWARE. This means:
+
+1. All copyrights to W.A.O.T. are exclusively owned by Russian New Logic.
+
+2. W.A.O.T. IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.YOU USE AT YOUR OWN RISK. THE Gurucool Inc. WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+3. You shall not charge a fee, exchange goods or services, barter or otherwise profit in a commercial way from the lending, leasing, selling or distribution of W.A.O.T. You may not modify, translate, reverse engineer, decompile, dissassemble W.A.O.T. or create derivative works based on W.A.O.T.. Any such unauthorized use shall result in immediate and automatic termination of this license and may result in criminal and/or civil prosecution. All rights not expressly granted here are reserved by Gurucool Inc.
+
+4. Installing and using W.A.O.T. signifies acceptance of these terms and conditions of the license.
+
+5. If you do not agree with the terms of this license you must remove W.A.O.T. files from your storage devices and cease to use the product.
+
+Thank you for using W.A.O.T.
+   Gurucool Inc.
+   http://www.gameboyzone.com
+   Feedback: gameboyzone@ymail.com

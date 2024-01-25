@@ -1,0 +1,23 @@
+W.A.O.T. is a tool for Windows XP operating system users who wish to tweak their PC system to their optimal desire, tweaking the features to their own discretion and performing additional operations which otherwise may be hidden or impossible.
+
+It includes the advanced toolkits to help you make widespread changes to Windows explorer, desktop, start-menu, control panel, etc.
+
+Some of the other handy tools provided by W.A.O.T. permit thorough administration by allowing time based shutdown, screen capturing, manual scandisk, creating virtual drives etc.
+
+Furthermore you can also restrict key Windows XP applications, Office applications and user-specific applications.
+
+
+****  Minimum requirements: ****
+--> Intel Pentium/Celeron family or AMD K6/Athlon/Duron family, or higher
+--> Microsoft Windows XP Home/Professional
+--> 128 MB RAM
+--> Super VGA (800 x 600) or higher-resolution video adapter
+--> 100 MB free HDD space
+--> The Windows XP account used to install W.A.O.T. should be an Administrator
+--> No JDK / MS-Access required...!!!
+
+
+Thank you for using W.A.O.T..
+   Gurucool Inc.
+   http://www.gameboyzone.com
+   Feedback: gameboyzone@ymail.com
