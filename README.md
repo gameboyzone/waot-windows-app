@@ -1,5 +1,5 @@
-# WAOT
-- W.A.O.T. is a tool for Windows XP operating system users who wish to tweak the Windows OS to the optimal performance, tweaking the features to their own discretion and performing additional operations which otherwise may be hidden or impossible. This project was built in 2009 as part of academic-corporate partnership between St. Francis Institute of Technology and Zetta Business Solutions.
+# Windows XP Administration, Optimization and Tuning
+- Windows XP Administration, Optimization and Tuning (termed WAOT or W.A.O.T.) is a tool for Windows XP operating system users who wish to tweak the Windows OS to the optimal performance, tweaking the features to their own discretion and performing additional operations which otherwise may be hidden or impossible. This project was built in 2009 as part of academic-corporate partnership between St. Francis Institute of Technology and Zetta Business Solutions.
 
 ## Features supported
 - The program enables you to manage registry backups, optimize system and administer Windows XP using various other utilities like screen locking, screen capturing, file locking, etc.
