@@ -7,6 +7,9 @@
 - Some of the other handy tools provided by W.A.O.T. permit thorough administration over the LAN by allowing remote and time based shutdown, remote messaging, etc.
 - There are a variety of tools available over the Internet like Registry Mechanic, Toolkit Utilities 2008, Advanced PC tweaker, Network Admin Elite, etc which provide the same features to the user. W.A.O.T. acts as a superset of all of the above applications by providing all of the features bundled together with a precise and a lucid interface.
 
+## Installation instructions
+See windows installer files under [/bin/WAOT_installer_files](./bin/WAOT_installer_files/)
+
 ## Docs
 See documents under [/docs](./docs/)
 
